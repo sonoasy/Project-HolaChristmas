@@ -15,4 +15,10 @@
 
 ## 프로젝트 회고록 및 데모영상
 
-https://sunnn21.tistory.com/20
+시각효과
+
+- 눈 
+<iframe title="'그린푸딩'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/430010374?service=player_share" allowfullscreen frameborder="0" scrolling="no" allow="autoplay; fullscreen; encrypted-media"></iframe>
+
+
+회고록 : https://sunnn21.tistory.com/20
